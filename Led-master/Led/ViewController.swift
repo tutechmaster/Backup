@@ -98,9 +98,8 @@ class ViewController: UIViewController {
         timer = Timer.scheduledTimer(timeInterval: 0.375, target: self, selector: #selector(moveright), userInfo: nil, repeats: true)
     }
     //12312123
-    //new
-    //second
-    
+    //Commit 
+    //hehe
     func moveleft()
     {
         turnOffLed()
